@@ -28,6 +28,9 @@ Le repo Git inclut des poids et des images / videos pour utilisations, y sont di
 
 https://github.com/EfkTur/py_projects/tree/main/07_research_yolo
 
+Lien Google Colab pour le notebook de modèles: 
+
+https://colab.research.google.com/drive/1KjY-HrHOBfthdUF52EoFVQYgxab2eJ8X?usp=sharing
 
 
 
