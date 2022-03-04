@@ -1,0 +1,11 @@
+
+
+Lien vers notre kernel d'entrainement: https://www.kaggle.com/efkanturedi/great-barrier-reef-yolov5-train-e76005
+
+Lien vers notre kernel d'inférence: https://www.kaggle.com/efkanturedi/great-barrier-reef-yolov5-infer
+
+
+Kernels utiles pour notre analyse:
+Kernel 1: https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-train
+Kernel 2: https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-infer
+Kernel 3: https://www.kaggle.com/soumya9977/learning-to-sea-underwater-img-enhancement-eda

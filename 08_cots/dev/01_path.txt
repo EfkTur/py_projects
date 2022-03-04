@@ -1,2 +1,0 @@
-/Users/efkanturedi/Corteze/datasets/cots/tensorflow-great-barrier-reef
- 

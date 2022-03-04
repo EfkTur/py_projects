@@ -1,9 +1,0 @@
- 
-** TO DO LIST **
-
-- Comprendre comment transformer le dataset du format COCO au format YOLO
-- Une fois transformé les fichiers de dataset source, il faudra juste faire tourner les modèles avec YOLOv3
-- Il faudra aussi comprendre ce qui est demandé exactement comme output
-
-
- 
